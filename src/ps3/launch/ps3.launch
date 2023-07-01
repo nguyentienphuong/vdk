@@ -1,0 +1,13 @@
+<launch>
+  <!-- goi file launch gui tham so xuong vdk -->
+  <include file="$(find send_speed)/launch/send_speed.launch"/>
+
+  <node pkg="joy" type="joy_node" name="joy_node" required="true" output = "screen" />
+  <node pkg="ps3" type="ps3" name="ps3" required="true" output = "screen" >
+    <param name="topic_vdai_vgoc" value="Twist"/>
+    <param name="v_dai" type="double" value="6" />
+    <param name="v_goc" type="double" value="56" />
+  </node>
+  
+
+</launch>

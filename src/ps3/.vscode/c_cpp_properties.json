@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/phuong/tn/src/a1/include/**",
+        "/opt/ros/noetic/share/blam_slam/include/**",
+        "/home/phuong/tn/src/en_imu/include/**",
+        "/home/phuong/tn/src/encoder_imu_vdk/include/**",
+        "/home/phuong/tn/src/gui_thong_so/include/**",
+        "/opt/ros/noetic/share/laser_loop_closure/include/**",
+        "/home/phuong/tn/src/localization_data_pub/include/**",
+        "/home/phuong/tn/src/m/include/**",
+        "/opt/ros/noetic/share/point_cloud_filter/include/**",
+        "/opt/ros/noetic/share/point_cloud_localization/include/**",
+        "/opt/ros/noetic/share/point_cloud_mapper/include/**",
+        "/opt/ros/noetic/share/point_cloud_odometry/include/**",
+        "/opt/ros/noetic/share/point_cloud_visualizer/include/**",
+        "/home/phuong/tn/src/ps3/include/**",
+        "/home/phuong/tn/src/send_speed/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

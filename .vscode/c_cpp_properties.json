@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/phuong/catkin_velodyne/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/phuong/tn/src/a1/include/**",
+                "/opt/ros/noetic/share/blam_slam/include/**",
+                "/home/phuong/ReinforcementLearning_Robot/src/differential_robot/include/**",
+                "/home/phuong/ReinforcementLearning_Robot/src/ekf/include/**",
+                "/home/phuong/catkin_velodyne/src/kinetic_iv/include/**",
+                "/home/phuong/catkin_velodyne/src/kinetic_rv/include/**",
+                "/opt/ros/noetic/share/laser_loop_closure/include/**",
+                "/home/phuong/ReinforcementLearning_Robot/src/navigation/include/**",
+                "/home/phuong/catkin_velodyne/src/parameter_utils/include/**",
+                "/home/phuong/catkin_ws/src/point_cloud_filter/include/**",
+                "/opt/ros/noetic/share/point_cloud_localization/include/**",
+                "/opt/ros/noetic/share/point_cloud_mapper/include/**",
+                "/opt/ros/noetic/share/point_cloud_odometry/include/**",
+                "/opt/ros/noetic/share/point_cloud_visualizer/include/**",
+                "/home/phuong/catkin_velodyne/src/ps3joy/include/**",
+                "/home/phuong/catkin_velodyne/src/serial/include/**",
+                "/home/phuong/ReinforcementLearning_Robot/src/teleop_for_differential/include/**",
+                "/home/phuong/ReinforcementLearning_Robot/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/phuong/ReinforcementLearning_Robot/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/phuong/catkin_velodyne/src/velodyne/velodyne_driver/include/**",
+                "/home/phuong/catkin_velodyne/src/velodyne/velodyne_laserscan/include/**",
+                "/home/phuong/catkin_velodyne/src/velodyne/velodyne_pcl/include/**",
+                "/home/phuong/catkin_velodyne/src/velodyne/velodyne_pointcloud/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14",
+            "configurationProvider": "go2sh.cmake-integration"
+        }
+    ],
+    "version": 4
+}

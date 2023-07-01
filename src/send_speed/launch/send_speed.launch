@@ -1,0 +1,7 @@
+<launch>
+  <node pkg="send_speed" type="send_speed" name="send_speed" required="true" output = "screen" > 
+  
+    <!-- <param name="v" type="double" value="6" />
+    <param name="v" type="double" value="56" /> -->
+  </node>
+</launch>

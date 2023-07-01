@@ -1,0 +1,2 @@
+a1:en_imu:encoder_imu_vdk:gui_thong_so:localization_data_pub:m:ps3:send_speed
+-DCATKIN_DEVEL_PREFIX=/home/phuong/tn/devel -DCMAKE_INSTALL_PREFIX=/home/phuong/tn/install -G Unix Makefiles

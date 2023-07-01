@@ -1,0 +1,8 @@
+prefix=/home/phuong/tn/install
+
+Name: en_imu
+Description: Description of en_imu
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

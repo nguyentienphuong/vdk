@@ -1,0 +1,8 @@
+prefix=/home/phuong/tn/install
+
+Name: send_speed
+Description: Description of send_speed
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

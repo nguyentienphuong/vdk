@@ -1,0 +1,8 @@
+prefix=/home/phuong/tn/devel
+
+Name: a1
+Description: Description of a1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

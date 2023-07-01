@@ -1,0 +1,8 @@
+prefix=/home/phuong/tn/devel
+
+Name: gui_thong_so
+Description: Description of gui_thong_so
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
